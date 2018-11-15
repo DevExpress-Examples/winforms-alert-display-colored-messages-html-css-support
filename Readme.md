@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CustomAlertControl.cs](./CS/WindowsFormsApplication2/CustomAlertControl.cs) (VB: [CustomAlertControl.vb](./VB/WindowsFormsApplication2/CustomAlertControl.vb))**
+* [Form1.cs](./CS/WindowsFormsApplication2/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication2/Form1.vb))
+<!-- default file list end -->
 # AlertControl - How to display alert popups with different colors
 
 
