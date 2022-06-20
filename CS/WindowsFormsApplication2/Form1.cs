@@ -21,16 +21,5 @@ namespace WindowsFormsApplication2 {
         private void btnRegularAlert_Click(object sender, EventArgs e) {
             alertControl1.Show(this, "Caption", "Text", "Hot-tracked text", (Image)null, null);
         }
-
-        private void simpleButton1_Click_1(object sender, EventArgs e)
-        {
-            alertControl2.Show(this, "Caption", "Text");
-        }
-        private void alertControl2_CustomizeHtmlTemplate(object sender, DevExpress.XtraBars.Alerter.CustomizeAlertHtmlTemplateEventArgs e)
-        {
-            DxHtmlElement element = e.Root.FindElementById("popup");
-            if (element != null)
-                element.Style.SetBackgroundColor(colorPickEdit1.Color);
-        }
     }
 }
