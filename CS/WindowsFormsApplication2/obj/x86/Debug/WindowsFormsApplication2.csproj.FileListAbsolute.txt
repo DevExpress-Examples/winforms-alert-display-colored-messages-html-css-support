@@ -1,0 +1,11 @@
+C:\Work\2022\6\t190778\alertcontrol-how-to-display-alert-popups-with-different-colors-t190778-14.1.6-\CS\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Work\2022\6\t190778\alertcontrol-how-to-display-alert-popups-with-different-colors-t190778-14.1.6-\CS\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Work\2022\6\t190778\alertcontrol-how-to-display-alert-popups-with-different-colors-t190778-14.1.6-\CS\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Work\2022\6\t190778\alertcontrol-how-to-display-alert-popups-with-different-colors-t190778-14.1.6-\CS\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.AssemblyReference.cache
+C:\Work\2022\6\t190778\alertcontrol-how-to-display-alert-popups-with-different-colors-t190778-14.1.6-\CS\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Work\2022\6\t190778\alertcontrol-how-to-display-alert-popups-with-different-colors-t190778-14.1.6-\CS\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Work\2022\6\t190778\alertcontrol-how-to-display-alert-popups-with-different-colors-t190778-14.1.6-\CS\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Work\2022\6\t190778\alertcontrol-how-to-display-alert-popups-with-different-colors-t190778-14.1.6-\CS\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Work\2022\6\t190778\alertcontrol-how-to-display-alert-popups-with-different-colors-t190778-14.1.6-\CS\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Work\2022\6\t190778\alertcontrol-how-to-display-alert-popups-with-different-colors-t190778-14.1.6-\CS\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Work\2022\6\t190778\alertcontrol-how-to-display-alert-popups-with-different-colors-t190778-14.1.6-\CS\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
