@@ -17,14 +17,6 @@ namespace WindowsFormsApplication2 {
                 element.Style.SetBackgroundColor(colorPickEdit1.Color);
         }
 
-        private void simpleButton1_Click(object sender, EventArgs e) {
-            alertControl1.Show(this, "Caption", "Text", "Hot-tracked text", null, null, colorPickEdit1.Color);
-        }
-
-        private void btnRegularAlert_Click(object sender, EventArgs e) {
-            alertControl1.Show(this, "Caption", "Text", "Hot-tracked text", (Image)null, null);
-        }
-
         private void simpleButton1_Click_1(object sender, EventArgs e)
         {
             alertControl2.Show(this, "Caption", "Text");

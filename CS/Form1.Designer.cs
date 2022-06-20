@@ -40,10 +40,8 @@ namespace WindowsFormsApplication2
             this.emptySpaceItem1 = new DevExpress.XtraLayout.EmptySpaceItem();
             this.simpleButton1item = new DevExpress.XtraLayout.LayoutControlItem();
             this.colorPickEdit1item = new DevExpress.XtraLayout.LayoutControlItem();
-            this.layoutConverter1 = new DevExpress.XtraLayout.Converter.LayoutConverter(this.components);
             this.alertControl2 = new DevExpress.XtraBars.Alerter.AlertControl(this.components);
             this.svgImageCollection1 = new DevExpress.Utils.SvgImageCollection(this.components);
-            this.alertControl1 = new WindowsFormsApplication2.CustomAlertControl(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.Form1layoutControl1ConvertedLayout)).BeginInit();
             this.Form1layoutControl1ConvertedLayout.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.colorPickEdit1.Properties)).BeginInit();
@@ -142,10 +140,6 @@ namespace WindowsFormsApplication2
             this.svgImageCollection1.Add("message_image", "image://svgimages/business objects/bo_lead.svg");
             this.svgImageCollection1.Add("message_close", "image://svgimages/icon builder/actions_delete.svg");
             // 
-            // alertControl1
-            // 
-            this.alertControl1.FormShowingEffect = DevExpress.XtraBars.Alerter.AlertFormShowingEffect.SlideHorizontal;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -167,11 +161,8 @@ namespace WindowsFormsApplication2
 		}
 
 		#endregion
-
-		private CustomAlertControl alertControl1;
         private DevExpress.XtraEditors.ColorPickEdit colorPickEdit1;
         private DevExpress.XtraEditors.SimpleButton simpleButton1;
-        private LayoutConverter layoutConverter1;
         private LayoutControl Form1layoutControl1ConvertedLayout;
         private LayoutControlGroup layoutControlGroup1;
         private LayoutControlItem simpleButton1item;
