@@ -17,7 +17,7 @@ private void alertControl2_CustomizeHtmlTemplate(object sender, DevExpress.XtraB
 }
 ```
 
-![WinForms Alert Control - Display alert popups in different colors](https://raw.githubusercontent.com/DevExpress-Examples/alertcontrol-how-to-display-alert-popups-with-different-colors-t190778/22.1.2%2B/media/winforms-alert-control-html-css-support.png)
+![WinForms Alert Control - Display alert popups in different colors](media/winforms-alert-control-html-css-support.png)
 
 
 ## Files to Review
