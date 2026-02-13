@@ -30,7 +30,7 @@ private void alertControl2_CustomizeHtmlTemplate(object sender, DevExpress.XtraB
 * [Alert Windows with HTML Templates](https://docs.devexpress.com/WindowsForms/403775/controls-and-libraries/messages-notifications-and-dialogs/alert-windows/alert-windows-with-html-templates)
 * [HTML and CSS Support](https://docs.devexpress.com/WindowsForms/403397/common-features/html-css-based-desktop-ui)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-alert-display-colored-messages-html-css-support&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-alert-display-colored-messages-html-css-support&~~~was_helpful=no)
 
